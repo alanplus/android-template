@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="LAppTheme">
+
+        <!-- 主题色 -->
+        <item name="l_theme_color">@color/theme_color</item>
+
+        <!-- 主界面 底部tab 配置 -->
+        <item name="l_home_tab_menu">@menu/menu</item>
+        <item name="l_menu_item_text_color">@color/main_tab_color</item>
+
+    </style>
+
+</resources>
